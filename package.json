@@ -1,0 +1,17 @@
+{
+  "name": "minio-playground",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minio": "^7.0.16"
+  },
+  "devDependencies": {
+    "@types/minio": "^7.0.6",
+    "@types/node": "^14.11.2"
+  }
+}
