@@ -1,6 +1,8 @@
 MemSQL and Min.io
 =================
 
+**Attention**: The code in this repository is intended for experimental use only and is not fully tested, documented, or supported by SingleStore. Visit the [SingleStore Forums](https://www.singlestore.com/forum/) to ask questions about this repository.
+
 This sample shows how MemSQL Pipelines can ingest data quickly from any S3-shaped source including min.io.  Watch a video demonstrating this sample at https://youtu.be/PiF3lHY66Nw
 
 
